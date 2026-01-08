@@ -1,0 +1,21 @@
+[
+  "Year",
+  "Month",
+  "total_GDP",
+  "Urbanization_rate",
+  "Baidu_index",
+  "people",
+  "Urban_population",
+  "PEV_Subsidy funds",
+  "CEV_Subsidy funds",
+  "PEV_number_lag_1",
+  "PEV_number_lag_3",
+  "PEV_number_lag_12",
+  "rolling_mean_3",
+  "rolling_sum_12",
+  "rolling_std_6",
+  "month",
+  "quarter",
+  "is_year_end",
+  "ym"
+]

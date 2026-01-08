@@ -1,0 +1,23 @@
+{
+  "run_id": "20260101_205506",
+  "y_col": "PEV_number",
+  "train_path": "D:\\thesis\\thesis\\01_data\\processed\\dataset_train.parquet",
+  "calib_path": "D:\\thesis\\thesis\\01_data\\processed\\dataset_calib.parquet",
+  "features_path": "D:\\thesis\\thesis\\01_data\\processed\\features_monthly.parquet",
+  "feature_cols_count": 20,
+  "calib_MAE": 837.3757758545843,
+  "calib_RMSE": 2461.9290117158043,
+  "xgb_params": {
+    "n_estimators": 1200,
+    "learning_rate": 0.03,
+    "max_depth": 8,
+    "subsample": 0.85,
+    "colsample_bytree": 0.85,
+    "reg_alpha": 0.0,
+    "reg_lambda": 1.0,
+    "seed": 42,
+    "tree_method": "hist"
+  },
+  "rollout_start": "2025-01-01",
+  "rollout_end": "2030-12-01"
+}

@@ -1,0 +1,14 @@
+{
+  "run_dir": "D:\\thesis\\thesis\\03_runs\\baseline_xgb\\20260101_211256",
+  "alpha": 0.1,
+  "qhat": 1666.55419921875,
+  "n_calib_abs_residual": 8736,
+  "calib_coverage_on_unified_calib_split": 0.9000686813186813,
+  "interval_width_mean": 2565.409999655104,
+  "interval_width_median": 2639.54819921875,
+  "interval_width_p90": 3333.1083984375,
+  "clip0": true,
+  "files": {
+    "predictions_with_cp": "D:\\thesis\\thesis\\03_runs\\baseline_xgb\\20260101_211256\\predictions_with_cp.csv"
+  }
+}
